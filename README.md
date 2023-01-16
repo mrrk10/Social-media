@@ -1,7 +1,19 @@
 # FoodGram web app
 This is a simple social media apps for foos enthusiastic.It is build wth MERN stack technology
 
-# Features
-1.Users can post like usual social media.
-2.Users can chat with friends
-3.Users can like,comment on post
+## Technologies used
+- Frontend(React)
+- Backend(express js)
+- Database(mongoDb)
+
+----
+
+## Features
+- [ ] Login
+- [ ] Register
+- [ ] Post
+- [ ] Chat
+- [ ] Comment
+- [ ] Likes
+
+
