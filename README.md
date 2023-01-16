@@ -10,7 +10,7 @@ This is a simple social media apps for foos enthusiastic.It is build wth MERN st
 
 ## Features
 - [x] Login
-- [ ] Register
+- [x] Register
 - [ ] Post
 - [ ] Chat
 - [ ] Comment
