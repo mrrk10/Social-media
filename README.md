@@ -1,1 +1,2 @@
-# FoodGram
+# FoodGram web app
+#Features
